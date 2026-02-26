@@ -23,7 +23,7 @@ url=https://example.com
 username=test@gmail.com
 password=testPassword
 portfolioValue=0.00
-# Optional (remove lines you don’t want)
+# Optional
 browsers=chrome
 headless=false
 currency=€
