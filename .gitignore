@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+# Maven build output
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Properties
+config/test.properties
